@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="jumpgame" />
         <module name="Multithread" />
         <module name="NumberOfStatisticalDuplicatesWords" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="jumpgame" target="1.5" />
       <module name="Multithread" target="1.5" />
       <module name="NumberOfStatisticalDuplicatesWords" target="1.5" />
     </bytecodeTargetLevel>
