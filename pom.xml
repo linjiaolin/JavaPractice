@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>count-number-of-nice-subarrays</module>
+        <module>binary-tree-right-side-view</module>
     </modules>
 
     <dependencies>

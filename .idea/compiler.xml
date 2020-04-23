@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="binarytreerightsideview" />
         <module name="countnumberofnicesubarrays" />
         <module name="jump-game" />
         <module name="Multithread" />
@@ -13,11 +14,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="countnumberofnicesubarrays" target="1.5" />
-      <module name="JavaPractice" target="1.5" />
-      <module name="jump-game" target="1.5" />
-      <module name="Multithread" target="1.5" />
-      <module name="NumberOfStatisticalDuplicatesWords" target="1.5" />
+      <module name="binarytreerightsideview" target="8" />
+      <module name="countnumberofnicesubarrays" target="8" />
+      <module name="JavaPractice" target="8" />
+      <module name="jump-game" target="8" />
+      <module name="Multithread" target="8" />
+      <module name="NumberOfStatisticalDuplicatesWords" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
